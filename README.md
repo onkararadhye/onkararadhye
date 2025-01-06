@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Your Name</a> ✨</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank">Onkar Aradhye</a> ✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50">
@@ -48,7 +48,7 @@
 
 <h3 align="center">Let's Connect 🙏</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/onkararadhye">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:your.email@example.com">
