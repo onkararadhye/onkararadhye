@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/-Cybersecurity_Toolkit-green" alt="Cybersecurity Toolkit">
   </a>
 </p>
----
 
 <h3 align="center">GitHub Stats 🌟</h3>
 <p align="center">
@@ -43,7 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" />
 </p>
 
----
 
 <h3 align="center">Let's Connect 🙏</h3>
 <p align="center">
@@ -55,7 +53,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h3>
 
