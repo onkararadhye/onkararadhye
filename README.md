@@ -24,7 +24,7 @@
 
 ---
 
-<!<h3 align="center">Projects 🚀</h3>
+<h3 align="center">Projects 🚀</h3>
 <p align="center">
   <a href="https://github.com/onkararadhye/loginappusingandroistudio_firebase">
     <img src="https://img.shields.io/badge/-Android_Security_App-blue" alt="Android Security App">
@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/-Cybersecurity_Toolkit-green" alt="Cybersecurity Toolkit">
   </a>
 </p>
->
 ---
 
 <h3 align="center">GitHub Stats 🌟</h3>
