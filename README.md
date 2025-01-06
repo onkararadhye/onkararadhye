@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">Projects 🚀</h3>
+<!<h3 align="center">Projects 🚀</h3>
 <p align="center">
   <a href="https://github.com/onkararadhye/loginappusingandroistudio_firebase">
     <img src="https://img.shields.io/badge/-Android_Security_App-blue" alt="Android Security App">
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-Cybersecurity_Toolkit-green" alt="Cybersecurity Toolkit">
   </a>
 </p>
-
+>
 ---
 
 <h3 align="center">GitHub Stats 🌟</h3>
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/onkararadhye">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:onkararadhye.2004@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
