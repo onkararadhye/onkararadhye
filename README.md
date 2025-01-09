@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank">Onkar Aradhye</a> ✨</h1>
 
 <p align="center">
@@ -18,8 +17,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" />
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C" />
   <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=android-studio&color=3DDC84" />
   <img src="https://img.shields.io/badge/Tools-Burp_Suite-informational?style=flat&logo=burp-suite&color=FF7139" />
+  <img src="https://img.shields.io/badge/Tools-Website_Penetration_Testing-informational?style=flat&logo=owasp&color=FF0000" />
 </p>
 
 ---
@@ -42,7 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" />
 </p>
 
-
 <h3 align="center">Let's Connect 🙏</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/onkararadhye">
@@ -53,6 +53,4 @@
   </a>
 </p>
 
-
 <h3 align="center">Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h3>
-
