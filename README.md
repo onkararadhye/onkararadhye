@@ -16,8 +16,8 @@
 <table>
   <tr>
       <td align="center">
-      <a href="https://www.linkedin.com/in/krishnendu-dey-293470259/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkrishnendu-dey-293470259%2F&subtitle=@Krishnendu+Dey&size=square" alt="Krishnendu Dey">
+      <a href="https://www.linkedin.com/in/onkararadhye/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FkonkararadhyeF&subtitle=@Onkar+Aradhye&size=square" alt="Onkar Aradhye">
       </a>
     </td>
   <td align="center">
