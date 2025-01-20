@@ -15,6 +15,11 @@
 </p>
 <table>
   <tr>
+      <td align="center">
+      <a href="https://www.linkedin.com/in/krishnendu-dey-293470259/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkrishnendu-dey-293470259%2F&subtitle=@Krishnendu+Dey&size=square" alt="Krishnendu Dey">
+      </a>
+    </td>
   <td align="center">
   <a href="https://github.com/onkararadhye" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fonkararadhye&subtitle=onkararadhye&size=square" alt="onkararadhye">
