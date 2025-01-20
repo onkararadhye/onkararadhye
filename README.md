@@ -18,7 +18,7 @@
   💡 Passionate about learning and building innovative solutions <br>
   ☕ Lifelong Learner
 </p>
-<table>
+<table align="center">
   <tr>
       <td align="center">
       <a href="https://www.linkedin.com/in/onkararadhye/" target="_blank">
