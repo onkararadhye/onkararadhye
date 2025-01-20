@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android-+Developer;Security+Engineer;Website+Penetration+Tester;Game+Devloper;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Android+Developer;Security+Engineer;Website+Penetration+Tester;Game+Devloper;" alt="Typing SVG" />
 <p align="center">
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50">
 </p>
@@ -73,7 +73,9 @@
 </p>
 
 ---
-
+<a href="https://github.com/krishnendudey167">
+    <img src="https://ghchart.rshah.org/krishnendudey167" alt="krishnendudey167's GitHub Contribution Chart">
+</a>
 <h3 align="center">🤝 Let's Connect 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/onkararadhye">
