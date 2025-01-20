@@ -13,7 +13,15 @@
   💡 Passionate about learning and building innovative solutions <br>
   ☕ Lifelong Learner
 </p>
-
+<table>
+  <tr>
+  <td align="center">
+  <a href="https://github.com/krishnendudey167" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fkrishnendudey167&subtitle=krishnendudey167&size=square" alt="krishnendudey167">
+  </a>
+</td>
+  </tr>
+</table>
 ---
 
 <h3 align="center">🛠️ Languages & Tools 🛠️</h3>
