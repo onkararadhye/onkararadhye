@@ -1,3 +1,4 @@
+<body bg="black">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank">Onkar Aradhye</a> ✨</h1>
@@ -79,6 +80,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:onkararadhye.2004@gmail.com">
+  </a>
+</body>
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
