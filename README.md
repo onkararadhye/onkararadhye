@@ -73,9 +73,11 @@
 </p>
 
 ---
+</p align="center">
 <a href="https://github.com/onkararadhye">
     <img src="https://ghchart.rshah.org/onkararadhye" alt="Onkar Aradhye's GitHub Contribution Chart">
 </a>
+</p>
 <h3 align="center">🤝 Let's Connect 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/onkararadhye">
