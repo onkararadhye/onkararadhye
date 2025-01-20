@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank">Onkar Aradhye</a> ✨</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/onkararadhye" target="_blank">Onkar Aradhye</a> ✨</h1>
 
 
 <p align="center">
