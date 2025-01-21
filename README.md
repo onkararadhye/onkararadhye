@@ -63,14 +63,17 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onkararadhye&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onkararadhye&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 600px;"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkararadhye&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkararadhye&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px;"/>
 </p>
+ <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuBhoir&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
+    </p>
 
 ---
 <p align="center">
