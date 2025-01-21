@@ -72,8 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkararadhye&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px;"/>
 </p>
  <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
-    </p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkararadhye&theme=radical" style="width: 100%; max-width: 600px;">
+ </p>
 
 ---
 <p align="center">
